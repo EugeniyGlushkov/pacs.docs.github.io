@@ -1,0 +1,18 @@
+unnamed package
+ru.alvisid.pacs
+ru.alvisid.pacs.model
+ru.alvisid.pacs.model.abstractions
+ru.alvisid.pacs.model.enumActivate
+ru.alvisid.pacs.repository
+ru.alvisid.pacs.repository.datajpa
+ru.alvisid.pacs.repository.impl
+ru.alvisid.pacs.repository.loader
+ru.alvisid.pacs.repository.util
+ru.alvisid.pacs.service
+ru.alvisid.pacs.service.impl
+ru.alvisid.pacs.util
+ru.alvisid.pacs.util.cache
+ru.alvisid.pacs.util.exceptions
+ru.alvisid.pacs.util.profileResolver
+testdata
+util
